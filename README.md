@@ -3,7 +3,6 @@
 - :computer:  Software Engineering
 - :seedling:  Estudante de engenharia de software - UNB
 - 🧑‍🎓  Studying Java and React
-- :bearded_person: Pronouns: Ele/Dele
 
 ##
 
